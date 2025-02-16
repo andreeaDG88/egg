@@ -1,0 +1,204 @@
+/*Our App*/
+body {
+    background-color: #F6F6FA;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+     }
+.app-wrapper {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    height: 1399px;
+    margin: 40px auto;
+             }
+/*main content style*/
+.right-side-container {
+           padding-left: 88px;
+           padding-top: 80px;
+           padding-bottom: 180px;
+           padding-right: 40px;
+                      }
+.about-me-profession{
+font-weight: 700;
+font-size: 14px;
+color: #000;
+}
+.about-me-name{
+font-weight: 700;
+font-size: 45px;
+color: #000;
+margin-top: -10px;
+}
+.about-me-description{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+margin-top: -20px;
+padding-right: 60px;
+}
+.projects-section{
+    margin-top: 55px;
+}
+.projects-header{
+font-weight: 700;
+font-size: 22px;
+}
+.projects-list{
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+margin-left: -20px;
+margin-top: -10px;
+}
+.project-name{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #595959;
+}
+.project-info{
+    font-weight: 400;
+}
+.work-exp-section{
+    margin-top: 50px;
+}
+.work-exp-header{
+font-weight: 700;
+font-size: 22px;
+}
+.job-container{
+    margin-top: -10px;
+}
+.job-name{
+font-weight: 700;
+font-size: 16px;
+margin-top: -10px;
+}
+.job-info{
+    color: #6096ff;
+    margin-left: 10px;
+}
+.job-time{
+font-weight: 400;
+font-size: 12px;
+color: #a8a8a8;
+margin-top: -10px;
+}
+.job-elements-list{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+margin-left: -10px;
+margin-top: -5px;
+}
+.edu-section{
+    margin-top: 45px;
+}
+.edu-header{
+font-weight: 700;
+font-size: 22px;
+}
+.edu-name{
+font-weight: 700;
+font-size: 16px;
+color: #6096ff;
+margin-top: -1px;
+}
+.edu-info{
+font-weight: 700;
+font-size: 14px;
+margin-top: -13px;
+}
+.edu-time{
+font-weight: 400;
+font-size: 12px;
+color: #a8a8a8;
+margin-top: -13px;
+}
+.edu-container{
+    margin-top: -10px;
+}
+/*side-bar style*/
+.side-bar {
+    background-color: #dfeeff;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+          }
+.sidebar-image {
+    margin-top: 40px;
+               }
+.contacts-container{
+    padding-left: 40px;
+                   }
+.contacts-header{
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    font-style: normal;
+    line-height: normal;
+                }
+.contacts-element{
+    margin-top: -12px;
+                 }
+.contacts-item{
+font-weight: 700;
+font-size: 14px;
+line-height: 24%;
+color: #161d2a;
+font-style: normal;
+}
+.contacts-phone{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #4489ff;
+text-decoration: none;
+margin-left: 10px;
+}
+.contacts-email{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #4489ff;
+margin-left: 10px;
+}
+.techskills-section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.techskills-header{
+font-weight: 700;
+font-size: 22px;
+color: #161d2a;
+}
+.tech-skills-list{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+margin-top: -12px;
+margin-left: -8px;
+}
+.softskills-container{
+    padding-left: 40px;
+    margin-top: 50px;
+}
+.softskills-header{
+font-weight: 700;
+font-size: 22px;
+color: #161d2a;
+}
+.softskills-list{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+margin-top: -12px;
+}
